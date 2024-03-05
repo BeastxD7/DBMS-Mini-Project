@@ -161,6 +161,8 @@ if(isset($_GET['id'])){
             <button class="btn btn-flat btn-sn btn-danger" type="button" id="delete"><i class="fa fa-trash"></i> Delete</button>
             <a class="btn btn-flat btn-sn btn-dark" href="<?php echo base_url ?>">Back to List</a>
     </div>
+
+    
 </div>
 <script>
     
